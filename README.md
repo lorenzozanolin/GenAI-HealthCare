@@ -5,11 +5,23 @@ It explores the integration of generative AI into clinical workflows by modeling
 1. **Patient Summary Generation**  
    Develop a system capable of producing concise and accurate summaries of a patient’s complete clinical history to streamline decision-making.
 
+| <img src="HealthClinic/images/SummarizePatient.jpg"> |
+|:--:|
+| <b>Summarize Patient task</b>|
+
 2. **Medication Suggestion with Dosage Recommendations**  
    Implement a feature to provide tailored medication and dosage recommendations based on the patient's specific diagnoses and medical history.
 
+| <img src="HealthClinic/images/ListPossibleProblems.jpg"> |
+|:--:|
+| <b>List Possible Problems task</b>|
+
 3. **Automated Referral Email Drafting**  
    Create a Copilot capable of generating detailed and professionally written referral emails summarizing all relevant information from medical consultations.
+
+| <img src="HealthClinic/images/SendPatientDetails.jpg"> |
+|:--:|
+| <b>Send Visit Details task</b>|
 
 ## Evaluation Process
 
