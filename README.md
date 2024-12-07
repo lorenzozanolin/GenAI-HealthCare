@@ -1,1 +1,3 @@
 # GenAI-HealthCare
+This project is my Master Thesis in AI & Cybersecurity. 
+It includes implementation from scratch of a system that incorporates Generative AI and to present a comprehensive framework for evaluating model outputs through a dual approach. This approach combines quantitative analysis using mathematical metrics with a human-based evaluation, where the raters are the actual end-users of the product. Furthermore, a statistical analysis was conducted to investigate potential inter-correlations between the evaluators
