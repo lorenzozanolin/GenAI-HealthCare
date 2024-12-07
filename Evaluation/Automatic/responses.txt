@@ -1,0 +1,218 @@
+Prompt 1: 
+- OpenAI GPT4
+
+**Patient Overview**
+
+We begin with the individual identified by ZNLLNZ00R20G888E. This person, born on October 20, 2000, is a 23-year-old male residing in Polcenigo. His contact information includes the email address l.zanolin@reply.it.
+
+**Health Conditions**
+
+Notably, this person has a confirmed severe case of Crohn's Disease, a chronic inflammatory bowel disease that affects the lining of the digestive tract. The condition was specifically observed on July 17, 2024, between 20:00 and 21:15, and it was noted that there were problems with the nose and bowel.
+
+Additionally, the person suffers from Obstructive Sleep Apnea, a condition where breathing repeatedly stops and starts during sleep. This condition is confirmed and classified as moderate. Similar to the Crohn's Disease, this condition was observed on July 17, 2024, between 20:00 and 21:15. It was also noted that there were problems with the nose and bowel.
+
+**Person Allergies**
+
+It is important to note that the person has a known allergy to lactose food. This allergy is related to the account identified by 001am00000ncK1yAAE. The allergy is identified with a string that starts like "Al-", but further details about its definition and classification are not available.
+
+- OpenAI GPT4 32k
+
+**Patient Overview**
+
+Starting with the identified individual, born on 10/20/2000 and currently 23 years old. This male individual resides in Polcenigo and can be contacted via the provided email address.
+
+**Health Conditions**
+
+The individual has two confirmed health conditions. First, he suffers from Crohn's Disease, a severe chronic inflammatory bowel disease affecting the lining of his digestive tract. This condition has been confirmed and was last addressed in a clinical encounter on 2024-07-17 between 20:00:00 and 21:15:00. The main problems identified were with the nose and bowel.
+
+Second, he has been diagnosed with Obstructive Sleep Apnea. This is a moderate condition where his breathing repeatedly stops and starts during sleep. This condition was also addressed in a clinical encounter on 2024-07-17 between 20:00:00 and 21:15:00, with the main problems being with the nose and bowel.
+
+**Person Allergies**
+
+This individual has a known allergy to lactose in food. It's important to note this when considering dietary requirements and medication prescriptions.
+
+
+- OpenAI GPT4 Omni
+
+**Patient Overview**
+
+**Lorenzo Zanolin** identified by ZNLLNZ00R20G888E is a 23-year-old male from Polcenigo, born on October 20, 2000. Contact can be made via l.zanolin@reply.it.
+
+**Health Conditions**
+
+The patient has been diagnosed with Crohn's Disease, a chronic inflammatory bowel disease that affects the lining of the digestive tract. This condition is confirmed and classified as severe. Additionally, the patient has Obstructive Sleep Apnea, a condition where breathing repeatedly stops and starts during sleep. This condition is confirmed and classified as moderate. Both conditions were noted during a clinical encounter on July 17, 2024, with issues related to the nose and bowel.
+
+**Person Allergies**
+
+The patient has a known allergy to Lactose Food. This allergy is identified with a string that starts like "Al-". The definition and classification of this allergy are not provided in the data.
+
+- Anthropic Claude 3.5 Sonnet
+
+Patient Overview
+Zanolin Lorenzo (ZNLLNZ00R20G888E) is a 23-year-old male born on October 20, 2000. Account resides in Polcenigo and can be contacted via email at l.zanolin@reply.it.
+
+Health Conditions
+Zanolin has been diagnosed with two significant health conditions that require ongoing management and monitoring. Crohn's Disease, a chronic inflammatory bowel disease affecting the lining of the digestive tract, has been confirmed and is currently classified as severe. Additionally, he has been diagnosed with Obstructive Sleep Apnea, a condition where breathing repeatedly stops and starts during sleep, which is confirmed and assessed as moderate.
+Both conditions were evaluated during a clinical encounter on July 17, 2024, lasting from 20:00 to 21:15. During this visit, Zanolin reported experiencing problems with his nose and bowel, which are consistent with the symptoms of both Crohn's Disease and Obstructive Sleep Apnea. The concurrent presence of these conditions suggests a complex health profile that may require a multidisciplinary approach to treatment.
+
+Person Allergies
+In addition to his chronic health conditions, Zanolin has a confirmed food allergy to lactose. This allergy adds another layer of complexity to his health management, particularly in relation to his Crohn's Disease, as dietary considerations play a crucial role in managing both conditions. The lactose allergy may impact nutritional choices and potentially influence the management strategies for his gastrointestinal symptoms.
+The combination of severe Crohn Disease, moderate Obstructive Sleep Apnea, and a lactose allergy presents a challenging health scenario for Zanolin. These conditions may interact with each other, potentially exacerbating symptoms or complicating treatment approaches. For instance, the sleep disruptions caused by Obstructive Sleep Apnea could potentially affect inflammation levels and overall health, which might indirectly influence the management of Crohn Disease. Similarly, the dietary restrictions necessitated by both the lactose allergy and Crohn's Disease will require careful planning to ensure adequate nutrition while avoiding trigger foods.
+
+- Medico
+
+Patient Zanolin Lorenzo is a 23-year-old male, born on 10/20/2000 and legally recognized by the cf ZNLLNZ00R20G888E. He currently resides in Strada Mus in Polcenigo (Pordenone, 33070); other information on his contact is email: l.zanolin@reply.it and mobile: +393427234343. His weight is 66kg.
+
+He currently has the following health conditions: he was diagnosed with Chron's disease on 7/17/2024 by Doctor Andrea Bianchi. During that visit, his Oxygen saturation level (SpO2) was measured, obtaining an average value of 97. The treatment prescribed was Cortisone, with a daily dose of 33mg/day.
+The same day, he was diagnosed with Obstructive Sleep Apnea, again during the same visit, by Doctor Bianchi. The prescribed treatment was Tachifludec with 132mg/day.
+
+The patient has a lactose allergy, which must be taken into account both in the analysis of symptoms and in the prescription of drugs (which may contain it).
+
+
+Prompt 2:
+- OpenAI GPT4
+
+Given the symptom of Insomnia, the possible problems associated with this symptom could be:
+
+Obstructive Sleep Apnea: A condition where breathing repeatedly stops and starts during sleep.
+
+Suggested medication for this situation is Tachifludec with a dosage of 132 mg per day.
+
+- OpenAI GPT4 32k
+
+According to the symptom Insomnia, here are potential issues that could be causing it:
+
+Obstructive Sleep Apnea: This is a condition characterized by repeated stops and starts of breathing during sleep. 
+
+Suggested medication for this particular problem is Tachifludec with a suggested dosage of 132 mg per day. 
+
+Remember, these are only suggestions and the appropriate course of treatment should be determined by a healthcare professional.
+
+- OpenAI GPT4 Omni
+
+According to the symptom Insomnia, here is a list of the possible problems with this symptom:
+
+Obstructive Sleep Apnea: A condition where breathing repeatedly stops and starts during sleep.
+
+Suggested medications for this situation, every dosage is mg/day:
+
+Tachifludec: 132 mg/day.
+
+- Anthropic Claude 3.5 Sonnet
+
+According to the symptom Insomnia, here is a list of the possible problems with this symptom:
+
+Obstructive Sleep Apnea: A condition where breathing repeatedly stops and starts during sleep.
+
+Suggested medications for this situation:
+
+Tachifludec: 132 mg / day
+
+- Medico
+
+For the symptomology of Insomnia, given the precedents, it could be Obstructive Sleep Apnea which is a syndrome in which nasal obstructions occur, preventing correct breathing during the sleep phase. An initial treatment that could be helpful is Tachifludec; considering the patient's weight (66kg) and age (23 years) a basic dosage of 132mg/day is recommended.
+
+Prompt 3:
+- OpenAI GPT4
+
+Dear PERSON_1,
+
+I am writing to provide you with a summary of your recent medical visit at our Health Clinic. 
+
+During your visit, we confirmed that you have Crohn's Disease, a chronic inflammatory bowel disease that affects the lining of the digestive tract. This condition was severe and we noted problems with your nose and bowel. As part of your treatment, you have been prescribed Cortisone.
+
+In addition, we also confirmed that you have Obstructive Sleep Apnea, a condition where breathing repeatedly stops and starts during sleep. This condition was moderate and also associated with problems with your nose and bowel. For this, you have been prescribed Tachifludec.
+
+Should you have any questions or concerns regarding the treatment or your symptoms, do not hesitate to contact me.
+
+Thank you for your cooperation and trust in our care.
+
+Sincerely,
+PERSON_0
+Medical Doctor
+Health Clinic
+US_PHONE_NUMBER_0
+EMAIL_ADDRESS_0
+
+- OpenAI GPT4 32K
+
+Dear PERSON_1,
+
+I am writing to provide you with a summary of your recent medical visit at our clinic.
+
+During your visit, we discussed your health conditions, including Crohn's Disease and Obstructive Sleep Apnea. Crohn's Disease is a chronic inflammatory bowel disease that affects the lining of your digestive tract. Obstructive Sleep Apnea is a condition where your breathing repeatedly stops and starts during sleep. Both conditions were confirmed during your appointment on July 17, 2024.
+
+To manage these conditions, we have prescribed Cortisone for your Crohn's Disease, and Tachifludec for your Obstructive Sleep Apnea. These medications are currently active.
+
+Should you have any questions or concerns regarding your treatment or symptoms, do not hesitate to contact me.
+
+Thank you for your cooperation and trust in our care.
+
+Sincerely,
+
+PERSON_0
+Medical Doctor
+Health Clinic
+US_PHONE_NUMBER_0
+EMAIL_ADDRESS_0
+
+- OpenAI GPT4 Omni
+
+Dear Lorenzo Zanolin,
+
+I am writing to provide you with a summary of your recent medical visit at our clinic.
+
+During your visit, we addressed two primary health conditions. Firstly, you were diagnosed with Crohn's Disease, a chronic inflammatory bowel disease that affects the lining of the digestive tract. This condition was confirmed to be severe. Additionally, you have been experiencing problems with your nose and bowel. For this condition, Cortisone at a dosage of 33.00 is currently active in your treatment plan.
+
+Secondly, you were diagnosed with Obstructive Sleep Apnea, a condition where breathing repeatedly stops and starts during sleep. This condition was confirmed to be moderate. Similar to your first condition, you have been experiencing problems with your nose and bowel. For this condition, Tachifludec at a dosage of 132.00 is currently active in your treatment plan.
+
+Should you have any questions or concerns regarding the treatment or your symptoms, do not hesitate to contact me.
+
+Thank you for your cooperation and trust in our care.
+
+Sincerely,
+Andrea Bianchi
+Medical Doctor
+Health Clinic
++39 3457534538
+a.bianchi@gmail.com
+
+- Anthropic Claude 3.5 Sonnet
+
+Dear Lorenzo Zanolin,
+
+I am writing to provide you with a summary of your recent medical visit at our clinic.
+
+During your visit, we discussed your health conditions, specifically Crohn's Disease and Obstructive Sleep Apnea. Crohn's Disease, a chronic inflammatory bowel disease affecting the lining of your digestive tract, was assessed as severe. We also evaluated your Obstructive Sleep Apnea, a condition where breathing repeatedly stops and starts during sleep, which was determined to be moderate. You reported experiencing problems with your nose and bowel, which are consistent with these diagnoses.
+We reviewed your current medications, which include Cortisone for managing your Crohn's Disease symptoms and Tachifludec, which may be helping with some of your other symptoms. It's important to continue taking these medications as prescribed. The Cortisone dosage is 33.00 units, while the Tachifludec dosage is 132.00 units. Both medications are currently active in your treatment plan.
+
+Your visit lasted from 20:00 to 21:15 on July 17, 2024, during which we conducted a thorough examination and discussed your symptoms and treatment options. We will continue to monitor your conditions closely and may adjust your treatment plan as necessary to manage your symptoms effectively.
+Should you have any questions or concerns regarding the treatment or your symptoms, do not hesitate to contact me.
+
+Thank you for your cooperation and trust in our care.
+Sincerely,
+Andrea Bianchi
+Medical Doctor
+Health Clinic
++39 3457534538
+a.bianchi@gmail.com
+
+- Medico
+
+Dear Lorenzo, I am writing you the report of the last visit carried out at the clinic on 7/17/2024 at 1:00 pm.
+The reasons for the visit were two: you felt problems with both your nose and your bowel. As a matter of practice, a measurement of the oxygen level in the blood (SpO2) was carried out, resulting in a standard value of 97%. Subsequently, we focused, one at a time, on the symptoms.
+
+As regards the diarrhea and bowel pain, Chron's Disease was detected, for which you must pay close attention to the diet you follow. The pathology has a very high severity level, therefore the prescribed treatment is to take Cortisone daily for a quantity of approximately 33 mg/day. We will update you gradually to understand how the treatment is progressing.
+
+The second symptomology included discomfort in the nose during the night, more precisely a continuous obstruction of the airways. Currently we remain with a light treatment of daily Tachifludec, 132 mg/day and then we will evaluate how to continue in a few weeks.
+
+I remain available for any clarifications, see you soon!
+Sincerely,
+Andrea Bianchi
+Medical Doctor
+Health Clinic
++39 3457534538
+a.bianchi@gmail.com
+
+
+
